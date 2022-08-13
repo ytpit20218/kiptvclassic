@@ -251,42 +251,6 @@ http://live.television4you.xyz:8081/boxhits/mpegts
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tYz6CDB/cinemax.png", CINEMAX
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="mtvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/mtv_1500.stream/chunks_dvr_range-${start}-10800.m3u8, MTV
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
-#EXTVLCOPT:http-user-agent="KIIP"
-http://0.0.0.0:1708/channel/dmaxuk
-#EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN HD
-#EXTVLCOPT:http-user-agent="KIIP"
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/88LPqCy/WB.png",Warner TV
-#EXTVLCOPT:http-user-agent="KIIP"
-http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="Quốc Tế" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
-#EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tMk0mJx/Boomerang.png",Boomerang
-#EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png",Cartoon Network HD
-#EXTVLCOPT:http-user-agent="KIIP"
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="Baby TV HD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Tt46sYw/babyfirst.png",Baby First
-#EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/cNQpbGr/Baby-TV.png",Baby TV
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="Baby TV HD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/KrdzC6y/CBeebies.png",Cbeebies
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
@@ -334,6 +298,7 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/R9P4G9X/TV5-Monde.png", TV5MONDE
+#EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/SNWQSqq/KBS-World.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KBS World
 #EXTVLCOPT:http-user-agent="KIIP"
