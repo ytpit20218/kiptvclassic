@@ -254,10 +254,48 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png", Man
 https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
-http://live.television4you.xyz:8081/boxhits/mpegts
+https://hqth.me/boxhitsclip
+#http://222.255.117.230/boxhits/mpegts
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 
+
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
+#EXTVLCOPT:http-user-agent="KIIP"
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tYz6CDB/cinemax.png", CINEMAX
+#EXTVLCOPT:http-user-agent="KIIP"
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="mtvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/mtv_1500.stream/chunks_dvr_range-${start}-10800.m3u8, MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
+#EXTVLCOPT:http-user-agent="KIIP"
+https://hqth.me/dmaxkiptv
+#EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
+#EXTVLCOPT:http-user-agent="KIIP"
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN HD
+#EXTVLCOPT:http-user-agent="KIIP"
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/88LPqCy/WB.png",Warner TV
+#EXTVLCOPT:http-user-agent="KIIP"
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Quốc Tế" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
+#EXTVLCOPT:http-user-agent="KIIP"
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tMk0mJx/Boomerang.png",Boomerang
+#EXTVLCOPT:http-user-agent="KIIP"
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png",Cartoon Network HD
+#EXTVLCOPT:http-user-agent="KIIP"
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="Baby TV HD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Tt46sYw/babyfirst.png",Baby First
+#EXTVLCOPT:http-user-agent="KIIP"
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/cNQpbGr/Baby-TV.png",Baby TV
+#EXTVLCOPT:http-user-agent="KIIP"
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="Baby TV HD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/KrdzC6y/CBeebies.png",Cbeebies
 #EXTVLCOPT:http-user-agent="KIIP"
@@ -323,11 +361,14 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
-http://103.22.183.7:8080/Paramount_Channel/index.m3u8
+http://52.231.51.194:1708/live/paramount
+#http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Quốc Tế" , THRILL (Không dành cho người yếu tim)
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8?
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-https://api.television4you.xyz/v1/getlink/tv360/107/2
+http://52.231.51.194:1708/live/hits
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Quốc Tế", HGTV
+http://52.231.51.194:1708/live/hgtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
